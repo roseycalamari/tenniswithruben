@@ -2,7 +2,7 @@
 window.TWR_WA = "351962669288";
 
 /* Paste your Stripe Payment Link here (Dashboard → Payment links → Create) */
-window.TWR_STRIPE_PAY_LINK = "https://buy.stripe.com/REPLACE_WITH_YOUR_LINK";
+window.TWR_STRIPE_PAY_LINK = "https://buy.stripe.com/test_8x214mfFP7MpaLS7qveUU00";
 
 window.TWR_I18N = {
   pt: {
