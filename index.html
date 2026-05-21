@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0"
+  />
+  <meta name="theme-color" content="#bd5c15" />
+  <meta name="description" content="Ruben, treinador de ténis em Albufeira, Algarve. Dou aulas privadas, consulta preços e marca comigo." />
+
+  <title>Tennis With Ruben, Albufeira, Algarve</title>
+
+  <!-- Favicon & link preview (square crop from 2.png) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-square.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="assets/images/icon-square.png" />
+  <link rel="apple-touch-icon" href="assets/images/og-share.png" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Tennis With Ruben" />
+  <meta property="og:description" content="Sou o Ruben, treinador de ténis em Albufeira, Algarve. Preços, contacto e marcação de aulas comigo." />
+  <meta property="og:image" content="assets/images/og-share.png" />
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Tennis With Ruben" />
+  <meta name="twitter:description" content="Sou o Ruben, treinador de ténis em Albufeira, Algarve. Aulas privadas comigo." />
+  <meta name="twitter:image" content="assets/images/og-share.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <nav class="lang-switch" aria-label="Language">
+      <button
+        class="lang-btn is-active"
+        type="button"
+        data-lang="pt"
+        aria-pressed="true"
+        aria-label="Português"
+      >
+        <img
+          src="assets/svgicons/flag-for-portugal-svgrepo-com.svg"
+          alt=""
+          class="lang-flag"
+          width="28"
+          height="28"
+        />
+      </button>
+      <button
+        class="lang-btn"
+        type="button"
+        data-lang="en"
+        aria-pressed="false"
+        aria-label="English"
+      >
+        <img
+          src="assets/svgicons/united-kingdom-svgrepo-com.svg"
+          alt=""
+          class="lang-flag"
+          width="28"
+          height="28"
+        />
+      </button>
+      <button
+        class="lang-btn"
+        type="button"
+        data-lang="fr"
+        aria-pressed="false"
+        aria-label="Français"
+      >
+        <img
+          src="assets/svgicons/flag-for-france-svgrepo-com.svg"
+          alt=""
+          class="lang-flag"
+          width="28"
+          height="28"
+        />
+      </button>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <h1 class="hero-logo-wrap">
+        <img
+          src="assets/images/logopill2.png"
+          alt="Tennis with Ruben"
+          class="hero-logo logo-pill"
+          width="320"
+          height="96"
+        />
+      </h1>
+    </section>
+
+    <!-- 01 Preços -->
+    <section class="section">
+      <p class="section-label">
+        <span class="num">01</span>
+        <span data-i18n="s1.label">Preços</span>
+      </p>
+      <h2 class="section-title" data-i18n="s1.title">Preços e Pacotes</h2>
+      <p class="section-desc" data-i18n="s1.desc">
+        Aulas individuais para adultos, crianças e adolescentes, aulas em grupo e pacotes mensais. Consulta todos os detalhes na página de preços.
+      </p>
+      <a class="btn btn-primary section-btn" href="precos.html">
+        <span data-i18n="s1.btn">Ver Preços</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <hr class="rule" aria-hidden="true" />
+
+    <!-- 02 Contacto -->
+    <section class="section">
+      <p class="section-label">
+        <span class="num">02</span>
+        <span data-i18n="s2.label">Contacto</span>
+      </p>
+      <h2 class="section-title" data-i18n="s2.title">WhatsApp</h2>
+      <p class="section-desc" data-i18n="s2.desc">
+        Envia-me mensagem para esclarecer dúvidas ou combinar horários.
+      </p>
+      <a
+        class="btn btn-outline section-btn"
+        data-i18n-href="_contact"
+        href="https://wa.me/351962669288"
+        target="_blank"
+        rel="noopener"
+      >
+        <span data-i18n="s2.btn">Contactar por WhatsApp</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <hr class="rule" aria-hidden="true" />
+
+    <!-- 03 Marca a tua aula -->
+    <section class="section">
+      <p class="section-label">
+        <span class="num">03</span>
+        <span data-i18n="s3.label">Reservar</span>
+      </p>
+      <h2 class="section-title" data-i18n="s3.title">Marcar Aula</h2>
+      <p class="section-desc" data-i18n="s3.desc">
+        Seleciona o horário pretendido e confirma a sessão comigo.
+      </p>
+      <a
+        class="btn btn-outline section-btn"
+        id="bookBtn"
+        href="#book"
+      >
+        <span data-i18n="s3.btn">Reservar Aula</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <hr class="rule" aria-hidden="true" />
+
+    <!-- 04 Pagamento -->
+    <section class="section">
+      <p class="section-label">
+        <span class="num">04</span>
+        <span data-i18n="s4.label">Pagamento</span>
+      </p>
+      <h2 class="section-title" data-i18n="s4.title">Pagar Online</h2>
+      <p class="section-desc" data-i18n="s4.desc">
+        Pagamento seguro por cartão através da Stripe. Indica o valor acordado comigo na página de pagamento.
+      </p>
+      <a
+        class="btn btn-outline section-btn"
+        href="https://buy.stripe.com/REPLACE_WITH_YOUR_LINK"
+        data-stripe-pay
+        target="_blank"
+        rel="noopener"
+      >
+        <span data-i18n="s4.btn">Pagar com Cartão</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <hr class="rule" aria-hidden="true" />
+
+    <!-- 05 Sobre -->
+    <section class="section section-about">
+      <p class="section-label">
+        <span class="num">05</span>
+        <span data-i18n="s5.label">Sobre</span>
+      </p>
+      <h2 class="section-title" data-i18n="s5.title">Sobre mim</h2>
+      <p class="section-desc" data-i18n="s5.desc">
+        Sou o Ruben, treinador de ténis na região de Albufeira. Dou aulas a adultos, crianças e adolescentes,
+        desde iniciantes até jogadores em competição. Nas sessões trabalho contigo a técnica, a táctica e
+        a confiança em court, de acordo com o teu nível e objectivos. Falo português e inglês fluentemente,
+        e francês a um nível básico.
+      </p>
+    </section>
+
+    <footer class="footer">
+      <img
+        src="assets/images/logopill2.png"
+        alt=""
+        class="footer-logo logo-pill"
+        width="240"
+        height="72"
+        aria-hidden="true"
+      />
+      <div class="footer-line">© <span id="year">2026</span> Tennis With Ruben</div>
+      <div class="footer-line" data-i18n="footer.loc">Albufeira · Algarve · Portugal</div>
+    </footer>
+  </main>
+
+  <script src="i18n.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
