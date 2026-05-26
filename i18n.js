@@ -43,7 +43,8 @@ window.TWR_I18N = {
     "price.group.note": "Preço por pessoa, por sessão.",
     "price.group.people2": "2 pessoas",
     "price.group.people3": "3 pessoas",
-    "price.group.people4": "4 pessoas (máximo)",
+    "price.group.people4": "4 pessoas",
+    "price.group.people5": "5 pessoas (máximo)",
     "price.group.monthly": "Para aulas em grupo com frequência mensal, aplico um desconto de 10% sobre o valor total do mês.",
 
     "price.info.title": "Informação Geral",
@@ -52,7 +53,7 @@ window.TWR_I18N = {
     "price.info.arrival": "Chega ao local combinado com 3 a 5 minutos de antecedência.",
 
     "price.cancel.title": "Cancelamentos",
-    "price.cancel.body": "Para cancelar uma aula com reembolso integral, avisa com pelo menos 24 horas de antecedência. Após esse prazo, é aplicada uma taxa de 20% sobre o valor da sessão.",
+    "price.cancel.body": "Para cancelar uma aula com reembolso integral, avisa com pelo menos 24 horas de antecedência. Após esse prazo, é aplicada uma taxa de 30% sobre o valor da sessão.",
 
     "price.cta": "Reservar por WhatsApp",
     "price.whatsapp.packages": "Bom dia Ruben, gostaria de informação sobre os preços e pacotes.",
@@ -98,7 +99,8 @@ window.TWR_I18N = {
     "price.group.note": "Price per person, per session.",
     "price.group.people2": "2 players",
     "price.group.people3": "3 players",
-    "price.group.people4": "4 players (maximum)",
+    "price.group.people4": "4 players",
+    "price.group.people5": "5 players (maximum)",
     "price.group.monthly": "For group lessons booked on a monthly basis, a 10% discount applies to the total monthly amount.",
 
     "price.info.title": "General Information",
@@ -107,7 +109,7 @@ window.TWR_I18N = {
     "price.info.arrival": "Please arrive at the agreed location 3 to 5 minutes before the start time.",
 
     "price.cancel.title": "Cancellations",
-    "price.cancel.body": "To cancel a lesson with a full refund, please give at least 24 hours notice. After that, a 20% fee is charged on the session amount.",
+    "price.cancel.body": "To cancel a lesson with a full refund, please give at least 24 hours notice. After that, a 30% fee is charged on the session amount.",
 
     "price.cta": "Book via WhatsApp",
     "price.whatsapp.packages": "Hello Ruben, I would like information about pricing and packages.",
@@ -153,7 +155,8 @@ window.TWR_I18N = {
     "price.group.note": "Tarif par personne, par séance.",
     "price.group.people2": "2 personnes",
     "price.group.people3": "3 personnes",
-    "price.group.people4": "4 personnes (maximum)",
+    "price.group.people4": "4 personnes",
+    "price.group.people5": "5 personnes (maximum)",
     "price.group.monthly": "Pour les cours en groupe sur une base mensuelle, une remise de 10% s'applique sur le montant total du mois.",
 
     "price.info.title": "Informations Générales",
@@ -162,7 +165,7 @@ window.TWR_I18N = {
     "price.info.arrival": "Merci d'arriver au lieu convenu 3 à 5 minutes avant l'heure prévue.",
 
     "price.cancel.title": "Annulations",
-    "price.cancel.body": "Pour annuler un cours avec remboursement intégral, merci de prévenir au moins 24 heures à l'avance. Passé ce délai, des frais de 20% du montant de la séance sont appliqués.",
+    "price.cancel.body": "Pour annuler un cours avec remboursement intégral, merci de prévenir au moins 24 heures à l'avance. Passé ce délai, des frais de 30% du montant de la séance sont appliqués.",
 
     "price.cta": "Réserver par WhatsApp",
     "price.whatsapp.packages": "Bonjour Ruben, je souhaiterais des informations sur les tarifs et forfaits.",
