@@ -8,7 +8,7 @@ window.TWR_I18N = {
   pt: {
     "s1.label": "Preços",
     "s1.title": "Preços e Pacotes",
-    "s1.desc": "Aulas individuais para adultos, crianças e adolescentes, aulas em grupo e pacotes mensais. Consulta todos os detalhes na página de preços.",
+    "s1.desc": "Aulas individuais para adultos, crianças e adolescentes, aulas em grupo e outros serviços. Consulta todos os detalhes na página de preços.",
     "s1.btn": "Ver Preços",
 
     "s2.label": "Contacto",
@@ -26,18 +26,26 @@ window.TWR_I18N = {
     "s4.desc": "Sou o Ruben, treinador de ténis na região de Albufeira. Dou aulas a adultos, crianças e adolescentes, desde iniciantes até jogadores em competição. Nas sessões trabalho contigo a técnica, a táctica e a confiança em court, de acordo com o teu nível e objectivos. Falo português e inglês fluentemente, e francês a um nível básico.",
 
     "footer.loc": "Albufeira · Algarve · Portugal",
+    "footer.credit": "Site criado por",
     "nav.back": "Voltar ao início",
 
     "price.title": "Preços",
-    "price.intro": "Todos os valores abaixo são por pessoa, salvo indicação em contrário. Cada aula tem a duração de 60 minutos.",
+    "price.intro": "Todos os valores abaixo são por pessoa, salvo indicação em contrário. A maioria das aulas tem 55 minutos.",
 
-    "price.adults.title": "Aulas Individuais, Adultos (+18)",
-    "price.adults.single": "Aula avulsa",
+    "price.juniors.title": "Pequeninos e Juniores (3–13 anos)",
+    "price.juniors.note": "Dos 3 aos 5 anos, a aula tem 40 minutos. Dos 6 aos 13, 55 minutos.",
+    "price.juniors.single": "Aula individual",
+    "price.juniors.pack": "Pacote de 5 aulas",
+
+    "price.adults.title": "Adultos e Adolescentes (14+)",
+    "price.adults.single": "Aula individual",
     "price.adults.pack": "Pacote de 5 aulas",
 
-    "price.children.title": "Aulas Individuais, Crianças e Adolescentes",
-    "price.children.single": "Aula avulsa",
-    "price.children.pack": "Pacote de 5 aulas",
+    "price.parent.title": "Pai ou Mãe + Filho(a)",
+    "price.parent.note": "Uma sessão de 55 minutos para adulto e criança. Podes dividir 30 minutos para cada ou trabalhar em conjunto no court.",
+    "price.parent.adult": "Adulto",
+    "price.parent.child": "Criança",
+    "price.parent.total": "Total da sessão",
 
     "price.group.title": "Aulas em Grupo",
     "price.group.note": "Preço por pessoa, por sessão.",
@@ -45,15 +53,24 @@ window.TWR_I18N = {
     "price.group.people3": "3 pessoas",
     "price.group.people4": "4 pessoas",
     "price.group.people5": "5 pessoas (máximo)",
-    "price.group.monthly": "Para aulas em grupo com frequência mensal, aplico um desconto de 10% sobre o valor total do mês.",
+
+    "price.analysis.title": "Análise Técnica em Vídeo",
+    "price.analysis.desc": "Gravo o teu jogo e envio um vídeo de 5 a 10 minutos com voz do treinador e comparações fluidas lado a lado com a técnica dos profissionais, para veres as diferenças e o que ajustar.",
+    "price.analysis.item": "Vídeo com narração do treinador",
 
     "price.info.title": "Informação Geral",
     "price.info.equipment": "Todo o equipamento necessário está incluído.",
-    "price.info.duration": "Todas as aulas têm a duração de 60 minutos.",
+    "price.info.duration": "A maioria das aulas tem 55 minutos. Aulas para pequeninos (3–5 anos) têm 40 minutos. A partir dos 14 anos aplicam-se os preços de adulto.",
     "price.info.arrival": "Chega ao local combinado com 3 a 5 minutos de antecedência.",
 
     "price.cancel.title": "Cancelamentos",
-    "price.cancel.body": "Para cancelar uma aula com reembolso integral, avisa com pelo menos 24 horas de antecedência. Após esse prazo, é aplicada uma taxa de 30% sobre o valor da sessão.",
+    "price.cancel.coach": "Se o treinador não puder dar a aula, o reembolso é integral.",
+    "price.cancel.individual.title": "Aulas individuais",
+    "price.cancel.individual.body": "Se cancelares com menos de 24 horas de antecedência, aplica-se uma taxa de 35% sobre o valor da aula.",
+    "price.cancel.group.title": "Aulas em grupo",
+    "price.cancel.group.prepay": "O pagamento é feito no momento da marcação.",
+    "price.cancel.group.absence": "O preço por pessoa é fixado pelo número de jogadores marcados. Se alguém faltar, quem comparecer continua a pagar o valor acordado — o preço não muda por haver menos jogadores em court.",
+    "price.cancel.group.refund": "Se um jogador cancelar com pelo menos 24 horas de antecedência, o reembolso é de 50%. Com menos de 24 horas de antecedência, não há reembolso.",
 
     "price.cta": "Reservar por WhatsApp",
     "price.whatsapp.packages": "Bom dia Ruben, gostaria de informação sobre os preços e pacotes.",
@@ -64,7 +81,7 @@ window.TWR_I18N = {
   en: {
     "s1.label": "Pricing",
     "s1.title": "Pricing and Packages",
-    "s1.desc": "Individual lessons for adults, children, and teenagers, group lessons, and monthly packages. See full details on the pricing page.",
+    "s1.desc": "Individual lessons for adults, children, and teenagers, group lessons, and more. See full details on the pricing page.",
     "s1.btn": "View Pricing",
 
     "s2.label": "Contact",
@@ -82,18 +99,26 @@ window.TWR_I18N = {
     "s4.desc": "I am Ruben, a tennis coach based in the Albufeira area. I teach adults, children, and teenagers, from beginners to competition players. In each session I work with you on technique, tactics, and confidence on court, aligned with your level and goals. I am fluent in Portuguese and English, with basic French.",
 
     "footer.loc": "Albufeira · Algarve · Portugal",
+    "footer.credit": "Website by",
     "nav.back": "Back to home",
 
     "price.title": "Pricing",
-    "price.intro": "All prices below are per person unless stated otherwise. Every lesson is 60 minutes long.",
+    "price.intro": "All prices below are per person unless stated otherwise. Most lessons are 55 minutes long.",
 
-    "price.adults.title": "Individual Lessons, Adults (18+)",
-    "price.adults.single": "Single lesson",
+    "price.juniors.title": "Toddlers and Juniors (3–13)",
+    "price.juniors.note": "Ages 3 to 5: 40-minute lessons. Ages 6 to 13: 55-minute lessons.",
+    "price.juniors.single": "Individual lesson",
+    "price.juniors.pack": "Package of 5 lessons",
+
+    "price.adults.title": "Adults and Teenagers (14+)",
+    "price.adults.single": "Individual lesson",
     "price.adults.pack": "Package of 5 lessons",
 
-    "price.children.title": "Individual Lessons, Children and Teenagers",
-    "price.children.single": "Single lesson",
-    "price.children.pack": "Package of 5 lessons",
+    "price.parent.title": "Parent + Child",
+    "price.parent.note": "One 55-minute session for an adult and a child. Split 30 minutes each or work together on court.",
+    "price.parent.adult": "Adult",
+    "price.parent.child": "Child",
+    "price.parent.total": "Session total",
 
     "price.group.title": "Group Lessons",
     "price.group.note": "Price per person, per session.",
@@ -101,15 +126,24 @@ window.TWR_I18N = {
     "price.group.people3": "3 players",
     "price.group.people4": "4 players",
     "price.group.people5": "5 players (maximum)",
-    "price.group.monthly": "For group lessons booked on a monthly basis, a 10% discount applies to the total monthly amount.",
+
+    "price.analysis.title": "Technical Video Analysis",
+    "price.analysis.desc": "I record your game and send a 5 to 10 minute video with coach voiceover and smooth side-by-side comparisons to how pros execute the technique, so you see the differences and what to adjust.",
+    "price.analysis.item": "Video with coach voiceover",
 
     "price.info.title": "General Information",
     "price.info.equipment": "All necessary equipment is included.",
-    "price.info.duration": "All lessons are 60 minutes long.",
+    "price.info.duration": "Most lessons are 55 minutes long. Toddler lessons (ages 3–5) are 40 minutes. From age 14, adult pricing applies.",
     "price.info.arrival": "Please arrive at the agreed location 3 to 5 minutes before the start time.",
 
     "price.cancel.title": "Cancellations",
-    "price.cancel.body": "To cancel a lesson with a full refund, please give at least 24 hours notice. After that, a 30% fee is charged on the session amount.",
+    "price.cancel.coach": "If the coach cannot attend the lesson, you receive a full refund.",
+    "price.cancel.individual.title": "Individual lessons",
+    "price.cancel.individual.body": "If you cancel with less than 24 hours notice, a 35% fee applies to the lesson amount.",
+    "price.cancel.group.title": "Group lessons",
+    "price.cancel.group.prepay": "Payment is due when the lesson is booked.",
+    "price.cancel.group.absence": "The per-person rate is set by the number of players booked. If someone is absent, those who attend still pay the agreed rate — the price does not change because fewer players are on court.",
+    "price.cancel.group.refund": "If a player cancels with at least 24 hours notice, the refund is 50%. With less than 24 hours notice, there is no refund.",
 
     "price.cta": "Book via WhatsApp",
     "price.whatsapp.packages": "Hello Ruben, I would like information about pricing and packages.",
@@ -120,7 +154,7 @@ window.TWR_I18N = {
   fr: {
     "s1.label": "Tarifs",
     "s1.title": "Tarifs et Forfaits",
-    "s1.desc": "Cours individuels pour adultes, enfants et adolescents, cours en groupe et forfaits mensuels. Consultez tous les détails sur la page des tarifs.",
+    "s1.desc": "Cours individuels pour adultes, enfants et adolescents, cours en groupe et autres services. Consultez tous les détails sur la page des tarifs.",
     "s1.btn": "Voir les Tarifs",
 
     "s2.label": "Contact",
@@ -138,18 +172,26 @@ window.TWR_I18N = {
     "s4.desc": "Je suis Ruben, coach de tennis dans la région d'Albufeira. J'enseigne aux adultes, aux enfants et aux adolescents, des débutants aux joueurs en compétition. Lors de chaque séance, je travaille avec vous la technique, la tactique et la confiance sur le court, selon votre niveau et vos objectifs. Je parle couramment le portugais et l'anglais, et le français à un niveau de base.",
 
     "footer.loc": "Albufeira · Algarve · Portugal",
+    "footer.credit": "Site créé par",
     "nav.back": "Retour à l'accueil",
 
     "price.title": "Tarifs",
-    "price.intro": "Tous les prix ci dessous sont par personne, sauf indication contraire. Chaque séance dure 60 minutes.",
+    "price.intro": "Tous les prix ci dessous sont par personne, sauf indication contraire. La plupart des séances durent 55 minutes.",
 
-    "price.adults.title": "Cours Individuels, Adultes (18+)",
-    "price.adults.single": "Cours à l'unité",
+    "price.juniors.title": "Tout-petits et Juniors (3–13 ans)",
+    "price.juniors.note": "De 3 à 5 ans : séances de 40 minutes. De 6 à 13 ans : 55 minutes.",
+    "price.juniors.single": "Cours individuel",
+    "price.juniors.pack": "Forfait 5 cours",
+
+    "price.adults.title": "Adultes et Adolescents (14+)",
+    "price.adults.single": "Cours individuel",
     "price.adults.pack": "Forfait 5 cours",
 
-    "price.children.title": "Cours Individuels, Enfants et Adolescents",
-    "price.children.single": "Cours à l'unité",
-    "price.children.pack": "Forfait 5 cours",
+    "price.parent.title": "Parent + Enfant",
+    "price.parent.note": "Une séance de 55 minutes pour un adulte et un enfant. Répartition 30 minutes chacun ou travail ensemble sur le court.",
+    "price.parent.adult": "Adulte",
+    "price.parent.child": "Enfant",
+    "price.parent.total": "Total de la séance",
 
     "price.group.title": "Cours en Groupe",
     "price.group.note": "Tarif par personne, par séance.",
@@ -157,15 +199,24 @@ window.TWR_I18N = {
     "price.group.people3": "3 personnes",
     "price.group.people4": "4 personnes",
     "price.group.people5": "5 personnes (maximum)",
-    "price.group.monthly": "Pour les cours en groupe sur une base mensuelle, une remise de 10% s'applique sur le montant total du mois.",
+
+    "price.analysis.title": "Analyse Technique Vidéo",
+    "price.analysis.desc": "J'enregistre votre jeu et vous envoie une vidéo de 5 à 10 minutes avec la voix du coach et des comparaisons fluides côte à côte avec la technique des professionnels, pour voir les écarts et quoi ajuster.",
+    "price.analysis.item": "Vidéo avec voix du coach",
 
     "price.info.title": "Informations Générales",
     "price.info.equipment": "Tout le matériel nécessaire est inclus.",
-    "price.info.duration": "Toutes les séances durent 60 minutes.",
+    "price.info.duration": "La plupart des séances durent 55 minutes. Les cours pour tout-petits (3–5 ans) durent 40 minutes. À partir de 14 ans, les tarifs adultes s'appliquent.",
     "price.info.arrival": "Merci d'arriver au lieu convenu 3 à 5 minutes avant l'heure prévue.",
 
     "price.cancel.title": "Annulations",
-    "price.cancel.body": "Pour annuler un cours avec remboursement intégral, merci de prévenir au moins 24 heures à l'avance. Passé ce délai, des frais de 30% du montant de la séance sont appliqués.",
+    "price.cancel.coach": "Si le coach ne peut pas assurer le cours, le remboursement est intégral.",
+    "price.cancel.individual.title": "Cours individuels",
+    "price.cancel.individual.body": "En cas d'annulation avec moins de 24 h de préavis, des frais de 35% s'appliquent sur le montant de la séance.",
+    "price.cancel.group.title": "Cours en groupe",
+    "price.cancel.group.prepay": "Le paiement est exigé lors de la réservation.",
+    "price.cancel.group.absence": "Le tarif par personne est fixé selon le nombre de joueurs inscrits. En cas d'absence, ceux présents paient toujours le tarif convenu — le prix ne change pas s'il y a moins de joueurs sur le court.",
+    "price.cancel.group.refund": "Si un joueur annule avec au moins 24 h de préavis, le remboursement est de 50%. Avec moins de 24 h de préavis, aucun remboursement.",
 
     "price.cta": "Réserver par WhatsApp",
     "price.whatsapp.packages": "Bonjour Ruben, je souhaiterais des informations sur les tarifs et forfaits.",
