@@ -75,16 +75,5 @@
   const yearEl = $("#year");
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 
-  const bookBtn = $("#bookBtn");
-  if (bookBtn) {
-    bookBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      const htmlLang = document.documentElement.getAttribute("lang") || "pt-PT";
-      const code = htmlLang.startsWith("pt") ? "pt" : htmlLang.slice(0, 2);
-      const dict = I18N[code] || I18N[DEFAULT_LANG];
-      window.open(waUrl(dict._book), "_blank", "noopener");
-    });
-  }
-
   setLanguage(initialLanguage(), { persist: false });
 })();
