@@ -65,10 +65,6 @@ window.TWR_I18N = {
     "price.group.people5": "5 pessoas (máximo)",
     "price.group.people5_90": "5 pessoas (1h30, máximo)",
 
-    "price.analysis.title": "Análise Técnica em Vídeo",
-    "price.analysis.desc": "Gravo o teu jogo e envio um vídeo de 5 a 10 minutos com voz do treinador e comparações fluidas lado a lado com a técnica dos profissionais, para veres as diferenças e o que ajustar.",
-    "price.analysis.item": "Vídeo com narração do treinador",
-
     "price.info.title": "Informação Geral",
     "price.info.equipment": "Todo o equipamento necessário está incluído.",
     "price.info.duration": "",
@@ -149,10 +145,6 @@ window.TWR_I18N = {
     "price.group.people5": "5 players (maximum)",
     "price.group.people5_90": "5 players (1h30, maximum)",
 
-    "price.analysis.title": "Technical Video Analysis",
-    "price.analysis.desc": "I record your game and send a 5 to 10 minute video with coach voiceover and smooth side-by-side comparisons to how pros execute the technique, so you see the differences and what to adjust.",
-    "price.analysis.item": "Video with coach voiceover",
-
     "price.info.title": "General Information",
     "price.info.equipment": "All necessary equipment is included.",
     "price.info.duration": "",
@@ -232,10 +224,6 @@ window.TWR_I18N = {
     "price.group.people4_90": "4 personnes (1h30)",
     "price.group.people5": "5 personnes (maximum)",
     "price.group.people5_90": "5 personnes (1h30, maximum)",
-
-    "price.analysis.title": "Analyse Technique Vidéo",
-    "price.analysis.desc": "J'enregistre votre jeu et vous envoie une vidéo de 5 à 10 minutes avec la voix du coach et des comparaisons fluides côte à côte avec la technique des professionnels, pour voir les écarts et quoi ajuster.",
-    "price.analysis.item": "Vidéo avec voix du coach",
 
     "price.info.title": "Informations Générales",
     "price.info.equipment": "Tout le matériel nécessaire est inclus.",
