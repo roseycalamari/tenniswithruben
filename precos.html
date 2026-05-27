@@ -59,18 +59,21 @@
 
       <header class="pricing-header">
         <h1 class="pricing-title" data-i18n="price.title">Preços</h1>
-        <p class="pricing-intro" data-i18n="price.intro">
-          Todos os valores abaixo são por pessoa, salvo indicação em contrário. A maioria das aulas tem 55 minutos.
-        </p>
       </header>
 
       <section class="price-block">
         <h2 class="price-block-title" data-i18n="price.adults.title">Adultos e Adolescentes (14+)</h2>
+        <p class="price-block-note" data-i18n="duration.adults">60 mins · 90 mins</p>
         <ul class="price-rows">
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.adults.single">Aula individual</span>
             <span class="price-row-dots" aria-hidden="true"></span>
             <span class="price-row-value">€42</span>
+          </li>
+          <li class="price-row">
+            <span class="price-row-label" data-i18n="price.adults.single90">Aula individual (1h30)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€60</span>
           </li>
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.adults.pack">Pacote de 5 aulas</span>
@@ -85,14 +88,17 @@
 
       <section class="price-block">
         <h2 class="price-block-title" data-i18n="price.juniors.title">Pequeninos e Juniores (3–13 anos)</h2>
-        <p class="price-block-note" data-i18n="price.juniors.note">
-          Dos 3 aos 5 anos, a aula tem 40 minutos. Dos 6 aos 13, 55 minutos.
-        </p>
+        <p class="price-block-note" data-i18n="duration.juniors">Ages 3–5: 40 mins · Ages 6–13: 60 mins</p>
         <ul class="price-rows">
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.juniors.single">Aula individual</span>
             <span class="price-row-dots" aria-hidden="true"></span>
             <span class="price-row-value">€35</span>
+          </li>
+          <li class="price-row">
+            <span class="price-row-label" data-i18n="price.juniors.single90">Aula individual (1h30)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€45</span>
           </li>
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.juniors.pack">Pacote de 5 aulas</span>
@@ -107,9 +113,7 @@
 
       <section class="price-block">
         <h2 class="price-block-title" data-i18n="price.parent.title">Pai ou Mãe + Filho(a)</h2>
-        <p class="price-block-note" data-i18n="price.parent.note">
-          Uma sessão de 55 minutos para adulto e criança. Podes dividir 30 minutos para cada ou trabalhar em conjunto no court.
-        </p>
+        <p class="price-block-note" data-i18n="duration.60">60 mins</p>
         <ul class="price-rows">
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.parent.adult">Adulto</span>
@@ -131,7 +135,7 @@
 
       <section class="price-block">
         <h2 class="price-block-title" data-i18n="price.group.title">Aulas em Grupo</h2>
-        <p class="price-block-note" data-i18n="price.group.note">Preço por pessoa, por sessão.</p>
+        <p class="price-block-note" data-i18n="duration.group">60 mins · 90 mins</p>
         <ul class="price-rows">
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.group.people2">2 pessoas</span>
@@ -139,9 +143,19 @@
             <span class="price-row-value">€25</span>
           </li>
           <li class="price-row">
+            <span class="price-row-label" data-i18n="price.group.people2_90">2 pessoas (1h30)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€35</span>
+          </li>
+          <li class="price-row">
             <span class="price-row-label" data-i18n="price.group.people3">3 pessoas</span>
             <span class="price-row-dots" aria-hidden="true"></span>
             <span class="price-row-value">€17</span>
+          </li>
+          <li class="price-row">
+            <span class="price-row-label" data-i18n="price.group.people3_90">3 pessoas (1h30)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€24</span>
           </li>
           <li class="price-row">
             <span class="price-row-label" data-i18n="price.group.people4">4 pessoas</span>
@@ -149,9 +163,19 @@
             <span class="price-row-value">€15</span>
           </li>
           <li class="price-row">
+            <span class="price-row-label" data-i18n="price.group.people4_90">4 pessoas (1h30)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€20</span>
+          </li>
+          <li class="price-row">
             <span class="price-row-label" data-i18n="price.group.people5">5 pessoas (máximo)</span>
             <span class="price-row-dots" aria-hidden="true"></span>
             <span class="price-row-value">€12.50</span>
+          </li>
+          <li class="price-row">
+            <span class="price-row-label" data-i18n="price.group.people5_90">5 pessoas (1h30, máximo)</span>
+            <span class="price-row-dots" aria-hidden="true"></span>
+            <span class="price-row-value">€18</span>
           </li>
         </ul>
       </section>
@@ -174,7 +198,6 @@
         <h2 class="price-block-title" data-i18n="price.info.title">Informação Geral</h2>
         <ul class="info-list">
           <li data-i18n="price.info.equipment">Todo o equipamento necessário está incluído.</li>
-          <li data-i18n="price.info.duration">A maioria das aulas tem 55 minutos. Aulas para pequeninos (3–5 anos) têm 40 minutos. A partir dos 14 anos aplicam-se os preços de adulto.</li>
           <li data-i18n="price.info.arrival">Chega ao local combinado com 3 a 5 minutos de antecedência.</li>
         </ul>
       </section>

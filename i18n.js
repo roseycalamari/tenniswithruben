@@ -30,19 +30,26 @@ window.TWR_I18N = {
     "nav.back": "Voltar ao início",
 
     "price.title": "Preços",
-    "price.intro": "Todos os valores abaixo são por pessoa, salvo indicação em contrário. A maioria das aulas tem 55 minutos.",
+    "price.intro": "",
+
+    "duration.adults": "60 min · 90 min",
+    "duration.group": "60 min · 90 min",
+    "duration.60": "60 min",
+    "duration.juniors": "3–5: 40 min · 6–13: 60 min",
 
     "price.juniors.title": "Pequeninos e Juniores (3–13 anos)",
-    "price.juniors.note": "Dos 3 aos 5 anos, a aula tem 40 minutos. Dos 6 aos 13, 55 minutos.",
+    "price.juniors.note": "Dos 3 aos 5 anos, a aula tem 40 minutos. Dos 6 aos 13, 60 minutos.",
     "price.juniors.single": "Aula individual",
+    "price.juniors.single90": "Aula individual (1h30)",
     "price.juniors.pack": "Pacote de 5 aulas",
 
     "price.adults.title": "Adultos e Adolescentes (14+)",
     "price.adults.single": "Aula individual",
+    "price.adults.single90": "Aula individual (1h30)",
     "price.adults.pack": "Pacote de 5 aulas",
 
     "price.parent.title": "Pai ou Mãe + Filho(a)",
-    "price.parent.note": "Uma sessão de 55 minutos para adulto e criança. Podes dividir 30 minutos para cada ou trabalhar em conjunto no court.",
+    "price.parent.note": "Uma sessão de 60 minutos para adulto e criança. Podes dividir 30 minutos para cada ou trabalhar em conjunto no court.",
     "price.parent.adult": "Adulto",
     "price.parent.child": "Criança",
     "price.parent.total": "Total da sessão",
@@ -50,9 +57,13 @@ window.TWR_I18N = {
     "price.group.title": "Aulas em Grupo",
     "price.group.note": "Preço por pessoa, por sessão.",
     "price.group.people2": "2 pessoas",
+    "price.group.people2_90": "2 pessoas (1h30)",
     "price.group.people3": "3 pessoas",
+    "price.group.people3_90": "3 pessoas (1h30)",
     "price.group.people4": "4 pessoas",
+    "price.group.people4_90": "4 pessoas (1h30)",
     "price.group.people5": "5 pessoas (máximo)",
+    "price.group.people5_90": "5 pessoas (1h30, máximo)",
 
     "price.analysis.title": "Análise Técnica em Vídeo",
     "price.analysis.desc": "Gravo o teu jogo e envio um vídeo de 5 a 10 minutos com voz do treinador e comparações fluidas lado a lado com a técnica dos profissionais, para veres as diferenças e o que ajustar.",
@@ -60,7 +71,7 @@ window.TWR_I18N = {
 
     "price.info.title": "Informação Geral",
     "price.info.equipment": "Todo o equipamento necessário está incluído.",
-    "price.info.duration": "A maioria das aulas tem 55 minutos. Aulas para pequeninos (3–5 anos) têm 40 minutos. A partir dos 14 anos aplicam-se os preços de adulto.",
+    "price.info.duration": "",
     "price.info.arrival": "Chega ao local combinado com 3 a 5 minutos de antecedência.",
 
     "price.cancel.title": "Cancelamentos",
@@ -103,19 +114,26 @@ window.TWR_I18N = {
     "nav.back": "Back to home",
 
     "price.title": "Pricing",
-    "price.intro": "All prices below are per person unless stated otherwise. Most lessons are 55 minutes long.",
+    "price.intro": "",
+
+    "duration.adults": "60 mins · 90 mins",
+    "duration.group": "60 mins · 90 mins",
+    "duration.60": "60 mins",
+    "duration.juniors": "Ages 3–5: 40 mins · Ages 6–13: 60 mins",
 
     "price.juniors.title": "Toddlers and Juniors (3–13)",
-    "price.juniors.note": "Ages 3 to 5: 40-minute lessons. Ages 6 to 13: 55-minute lessons.",
+    "price.juniors.note": "Ages 3 to 5: 40-minute lessons. Ages 6 to 13: 60-minute lessons.",
     "price.juniors.single": "Individual lesson",
+    "price.juniors.single90": "Individual lesson (1h30)",
     "price.juniors.pack": "Package of 5 lessons",
 
     "price.adults.title": "Adults and Teenagers (14+)",
     "price.adults.single": "Individual lesson",
+    "price.adults.single90": "Individual lesson (1h30)",
     "price.adults.pack": "Package of 5 lessons",
 
     "price.parent.title": "Parent + Child",
-    "price.parent.note": "One 55-minute session for an adult and a child. Split 30 minutes each or work together on court.",
+    "price.parent.note": "One 60-minute session for an adult and a child. Split 30 minutes each or work together on court.",
     "price.parent.adult": "Adult",
     "price.parent.child": "Child",
     "price.parent.total": "Session total",
@@ -123,9 +141,13 @@ window.TWR_I18N = {
     "price.group.title": "Group Lessons",
     "price.group.note": "Price per person, per session.",
     "price.group.people2": "2 players",
+    "price.group.people2_90": "2 players (1h30)",
     "price.group.people3": "3 players",
+    "price.group.people3_90": "3 players (1h30)",
     "price.group.people4": "4 players",
+    "price.group.people4_90": "4 players (1h30)",
     "price.group.people5": "5 players (maximum)",
+    "price.group.people5_90": "5 players (1h30, maximum)",
 
     "price.analysis.title": "Technical Video Analysis",
     "price.analysis.desc": "I record your game and send a 5 to 10 minute video with coach voiceover and smooth side-by-side comparisons to how pros execute the technique, so you see the differences and what to adjust.",
@@ -133,7 +155,7 @@ window.TWR_I18N = {
 
     "price.info.title": "General Information",
     "price.info.equipment": "All necessary equipment is included.",
-    "price.info.duration": "Most lessons are 55 minutes long. Toddler lessons (ages 3–5) are 40 minutes. From age 14, adult pricing applies.",
+    "price.info.duration": "",
     "price.info.arrival": "Please arrive at the agreed location 3 to 5 minutes before the start time.",
 
     "price.cancel.title": "Cancellations",
@@ -176,19 +198,26 @@ window.TWR_I18N = {
     "nav.back": "Retour à l'accueil",
 
     "price.title": "Tarifs",
-    "price.intro": "Tous les prix ci dessous sont par personne, sauf indication contraire. La plupart des séances durent 55 minutes.",
+    "price.intro": "",
+
+    "duration.adults": "60 min · 90 min",
+    "duration.group": "60 min · 90 min",
+    "duration.60": "60 min",
+    "duration.juniors": "3–5 : 40 min · 6–13 : 60 min",
 
     "price.juniors.title": "Tout-petits et Juniors (3–13 ans)",
-    "price.juniors.note": "De 3 à 5 ans : séances de 40 minutes. De 6 à 13 ans : 55 minutes.",
+    "price.juniors.note": "De 3 à 5 ans : séances de 40 minutes. De 6 à 13 ans : 60 minutes.",
     "price.juniors.single": "Cours individuel",
+    "price.juniors.single90": "Cours individuel (1h30)",
     "price.juniors.pack": "Forfait 5 cours",
 
     "price.adults.title": "Adultes et Adolescents (14+)",
     "price.adults.single": "Cours individuel",
+    "price.adults.single90": "Cours individuel (1h30)",
     "price.adults.pack": "Forfait 5 cours",
 
     "price.parent.title": "Parent + Enfant",
-    "price.parent.note": "Une séance de 55 minutes pour un adulte et un enfant. Répartition 30 minutes chacun ou travail ensemble sur le court.",
+    "price.parent.note": "Une séance de 60 minutes pour un adulte et un enfant. Répartition 30 minutes chacun ou travail ensemble sur le court.",
     "price.parent.adult": "Adulte",
     "price.parent.child": "Enfant",
     "price.parent.total": "Total de la séance",
@@ -196,9 +225,13 @@ window.TWR_I18N = {
     "price.group.title": "Cours en Groupe",
     "price.group.note": "Tarif par personne, par séance.",
     "price.group.people2": "2 personnes",
+    "price.group.people2_90": "2 personnes (1h30)",
     "price.group.people3": "3 personnes",
+    "price.group.people3_90": "3 personnes (1h30)",
     "price.group.people4": "4 personnes",
+    "price.group.people4_90": "4 personnes (1h30)",
     "price.group.people5": "5 personnes (maximum)",
+    "price.group.people5_90": "5 personnes (1h30, maximum)",
 
     "price.analysis.title": "Analyse Technique Vidéo",
     "price.analysis.desc": "J'enregistre votre jeu et vous envoie une vidéo de 5 à 10 minutes avec la voix du coach et des comparaisons fluides côte à côte avec la technique des professionnels, pour voir les écarts et quoi ajuster.",
@@ -206,7 +239,7 @@ window.TWR_I18N = {
 
     "price.info.title": "Informations Générales",
     "price.info.equipment": "Tout le matériel nécessaire est inclus.",
-    "price.info.duration": "La plupart des séances durent 55 minutes. Les cours pour tout-petits (3–5 ans) durent 40 minutes. À partir de 14 ans, les tarifs adultes s'appliquent.",
+    "price.info.duration": "",
     "price.info.arrival": "Merci d'arriver au lieu convenu 3 à 5 minutes avant l'heure prévue.",
 
     "price.cancel.title": "Annulations",
