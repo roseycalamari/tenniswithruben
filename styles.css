@@ -601,6 +601,38 @@ main { display: block; }
   gap: 10px;
 }
 
+.price-row:has(.price-row-alt) {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 3px;
+}
+
+.price-row-primary {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: 100%;
+}
+
+.price-row-alt {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0;
+  padding: 0 2px 0 0;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--fg);
+  opacity: 0.58;
+}
+
+.price-row-alt-value {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
 .price-row-label {
   font-size: 15px;
   font-weight: 600;
