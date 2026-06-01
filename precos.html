@@ -235,13 +235,16 @@
       </section>
 
       <div class="pricing-actions">
-        <span
-          class="btn btn-primary pricing-cta is-disabled"
-          role="status"
-          aria-disabled="true"
+        <a
+          class="btn btn-primary pricing-cta"
+          data-stripe-pay
+          href="https://buy.stripe.com/8x214mfFP7MpaLS7qveUU00"
+          target="_blank"
+          rel="noopener noreferrer"
         >
-          <span data-i18n="s3.btn">Em breve</span>
-        </span>
+          <span data-i18n="s3.btn">Pagar com Cartão</span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </a>
         <a
           class="btn btn-outline pricing-cta-secondary"
           data-i18n-href="price.whatsapp.packages"

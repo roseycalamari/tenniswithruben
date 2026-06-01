@@ -24,7 +24,9 @@ That updates the **Pagar com Cartão** buttons on the home page and on the prici
 
 Use Stripe **test mode** first. Pay with test card `4242 4242 4242 4242`.
 
-When ready, create the link in **live mode** and paste the live URL into `i18n.js`.
+When ready, create the link in **live mode** (no `test_` in the URL) and paste the live URL into `i18n.js`.
+
+**Live link in use:** `https://buy.stripe.com/8x214mfFP7MpaLS7qveUU00`
 
 ## Invoices
 

@@ -2,7 +2,7 @@
 window.TWR_WA = "351962669288";
 
 /* Paste your Stripe Payment Link here (Dashboard → Payment links → Create) */
-window.TWR_STRIPE_PAY_LINK = "https://buy.stripe.com/test_8x214mfFP7MpaLS7qveUU00";
+window.TWR_STRIPE_PAY_LINK = "https://buy.stripe.com/8x214mfFP7MpaLS7qveUU00";
 
 window.TWR_I18N = {
   pt: {
@@ -18,8 +18,8 @@ window.TWR_I18N = {
 
     "s3.label": "Pagamento",
     "s3.title": "Pagar Online",
-    "s3.desc": "O pagamento online por cartão estará disponível em breve.",
-    "s3.btn": "Em breve",
+    "s3.desc": "Paga com cartão o valor da aula ou pacote que combinarmos por WhatsApp.",
+    "s3.btn": "Pagar com Cartão",
 
     "s4.label": "Sobre",
     "s4.title": "Sobre mim",
@@ -95,8 +95,8 @@ window.TWR_I18N = {
 
     "s3.label": "Payment",
     "s3.title": "Pay Online",
-    "s3.desc": "Online card payment will be available soon.",
-    "s3.btn": "Soon",
+    "s3.desc": "Pay by card for the lesson or package amount we agree on via WhatsApp.",
+    "s3.btn": "Pay by Card",
 
     "s4.label": "About",
     "s4.title": "About me",
@@ -172,8 +172,8 @@ window.TWR_I18N = {
 
     "s3.label": "Paiement",
     "s3.title": "Payer en Ligne",
-    "s3.desc": "Le paiement en ligne par carte sera bientôt disponible.",
-    "s3.btn": "Bientôt",
+    "s3.desc": "Payez par carte le montant du cours ou forfait convenu par WhatsApp.",
+    "s3.btn": "Payer par Carte",
 
     "s4.label": "À propos",
     "s4.title": "À propos de moi",
