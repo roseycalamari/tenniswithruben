@@ -48,7 +48,7 @@ window.TWR_I18N = {
     "price.adults.pack": "Pacote de 5 aulas",
 
     "price.parent.title": "Pai ou Mãe + Filho(a)",
-    "price.parent.note": "Uma sessão de 60 minutos para adulto e criança. Podes dividir 30 minutos para cada ou trabalhar em conjunto no court.",
+    "price.parent.note": "Sessão de 60 minutos. Pode ser 30 min para o adulto e 30 min para a criança, ou trabalharem em conjunto no court.",
     "price.parent.adult": "Adulto",
     "price.parent.child": "Criança",
     "price.parent.total": "Total da sessão",
@@ -58,7 +58,8 @@ window.TWR_I18N = {
     "price.group.people2": "2 pessoas",
     "price.group.people3": "3 pessoas",
     "price.group.people4": "4 pessoas",
-    "price.group.people5": "5 pessoas (máximo)",
+    "price.group.people5": "5 pessoas",
+    "price.group.people6": "6 pessoas (máximo)",
 
     "price.info.title": "Informação Geral",
     "price.info.equipment": "Todo o equipamento necessário está incluído.",
@@ -67,10 +68,11 @@ window.TWR_I18N = {
 
     "price.cancel.title": "Cancelamentos",
     "price.cancel.coach": "Se o treinador não puder dar a aula, o reembolso é integral.",
+    "price.cancel.emergency": "O reembolso total em aulas canceladas com menos de 24 horas de antecedência só se aplica em caso de emergência.",
     "price.cancel.individual.title": "Aulas individuais",
     "price.cancel.individual.body": "Se cancelares com menos de 24 horas de antecedência, aplica-se uma taxa de 35% sobre o valor da aula.",
     "price.cancel.group.title": "Aulas em grupo",
-    "price.cancel.group.prepay": "O pagamento é feito no momento da marcação.",
+    "price.cancel.group.prepay": "O pagamento deve ser feito no momento da marcação.",
     "price.cancel.group.absence": "O preço por pessoa é fixado pelo número de jogadores marcados. Se alguém faltar, quem comparecer continua a pagar o valor acordado — o preço não muda por haver menos jogadores em court.",
     "price.cancel.group.refund": "Se um jogador cancelar com pelo menos 24 horas de antecedência, o reembolso é de 50%. Com menos de 24 horas de antecedência, não há reembolso.",
 
@@ -123,7 +125,7 @@ window.TWR_I18N = {
     "price.adults.pack": "Package of 5 lessons",
 
     "price.parent.title": "Parent + Child",
-    "price.parent.note": "One 60-minute session for an adult and a child. Split 30 minutes each or work together on court.",
+    "price.parent.note": "60-minute session. Can be 30 minutes for the adult and 30 minutes for the child, or worked together on court.",
     "price.parent.adult": "Adult",
     "price.parent.child": "Child",
     "price.parent.total": "Session total",
@@ -133,7 +135,8 @@ window.TWR_I18N = {
     "price.group.people2": "2 players",
     "price.group.people3": "3 players",
     "price.group.people4": "4 players",
-    "price.group.people5": "5 players (maximum)",
+    "price.group.people5": "5 players",
+    "price.group.people6": "6 players (maximum)",
 
     "price.info.title": "General Information",
     "price.info.equipment": "All necessary equipment is included.",
@@ -142,10 +145,11 @@ window.TWR_I18N = {
 
     "price.cancel.title": "Cancellations",
     "price.cancel.coach": "If the coach cannot attend the lesson, you receive a full refund.",
+    "price.cancel.emergency": "A full refund for lessons cancelled with less than 24 hours notice is only available in the event of an emergency.",
     "price.cancel.individual.title": "Individual lessons",
     "price.cancel.individual.body": "If you cancel with less than 24 hours notice, a 35% fee applies to the lesson amount.",
     "price.cancel.group.title": "Group lessons",
-    "price.cancel.group.prepay": "Payment is due when the lesson is booked.",
+    "price.cancel.group.prepay": "Payment must be made when the lesson is booked.",
     "price.cancel.group.absence": "The per-person rate is set by the number of players booked. If someone is absent, those who attend still pay the agreed rate — the price does not change because fewer players are on court.",
     "price.cancel.group.refund": "If a player cancels with at least 24 hours notice, the refund is 50%. With less than 24 hours notice, there is no refund.",
 
@@ -198,7 +202,7 @@ window.TWR_I18N = {
     "price.adults.pack": "Forfait 5 cours",
 
     "price.parent.title": "Parent + Enfant",
-    "price.parent.note": "Une séance de 60 minutes pour un adulte et un enfant. Répartition 30 minutes chacun ou travail ensemble sur le court.",
+    "price.parent.note": "Séance de 60 minutes. Peut être 30 min pour l'adulte et 30 min pour l'enfant, ou travaillée ensemble sur le court.",
     "price.parent.adult": "Adulte",
     "price.parent.child": "Enfant",
     "price.parent.total": "Total de la séance",
@@ -208,7 +212,8 @@ window.TWR_I18N = {
     "price.group.people2": "2 personnes",
     "price.group.people3": "3 personnes",
     "price.group.people4": "4 personnes",
-    "price.group.people5": "5 personnes (maximum)",
+    "price.group.people5": "5 personnes",
+    "price.group.people6": "6 personnes (maximum)",
 
     "price.info.title": "Informations Générales",
     "price.info.equipment": "Tout le matériel nécessaire est inclus.",
@@ -217,10 +222,11 @@ window.TWR_I18N = {
 
     "price.cancel.title": "Annulations",
     "price.cancel.coach": "Si le coach ne peut pas assurer le cours, le remboursement est intégral.",
+    "price.cancel.emergency": "Le remboursement intégral pour une annulation avec moins de 24 h de préavis n'est accordé qu'en cas d'urgence.",
     "price.cancel.individual.title": "Cours individuels",
     "price.cancel.individual.body": "En cas d'annulation avec moins de 24 h de préavis, des frais de 35% s'appliquent sur le montant de la séance.",
     "price.cancel.group.title": "Cours en groupe",
-    "price.cancel.group.prepay": "Le paiement est exigé lors de la réservation.",
+    "price.cancel.group.prepay": "Le paiement doit être effectué lors de la réservation.",
     "price.cancel.group.absence": "Le tarif par personne est fixé selon le nombre de joueurs inscrits. En cas d'absence, ceux présents paient toujours le tarif convenu — le prix ne change pas s'il y a moins de joueurs sur le court.",
     "price.cancel.group.refund": "Si un joueur annule avec au moins 24 h de préavis, le remboursement est de 50%. Avec moins de 24 h de préavis, aucun remboursement.",
 
